@@ -26,7 +26,7 @@
 為了提供您最佳的服務，本app會在您的電腦中放置並取用我們的Cookie，若您不願接受Cookie的寫入，您可在您使用的瀏覽器功能項中設定隱私權等級為高，即可拒絕Cookie的寫入，但可能會導至網站某些功能無法正常執行 。
 七、隱私權保護政策之修正
 本app隱私權保護政策將因應需求隨時進行修正，修正後的條款將刊登於網站上。
-----------------------------------------------------------------------\n
+----------------------------------------------------------------------                                                 
 Lyon Hsu built the 霹靂出場詩 app as a Free app. This SERVICE is provided by Lyon Hsu at no cost and is intended for use as is.
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
